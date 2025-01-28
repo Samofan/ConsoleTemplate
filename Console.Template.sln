@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console.Template.Application", "Console.Template.Application\Console.Template.Application.csproj", "{C9B6FC20-039B-4E7A-9DCD-D8CB4FC09A8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console.Template.Extensions", "Console.Template.Extensions\Console.Template.Extensions.csproj", "{3C20C676-46F2-4128-A23B-F2A4F3AD1B97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9B6FC20-039B-4E7A-9DCD-D8CB4FC09A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B6FC20-039B-4E7A-9DCD-D8CB4FC09A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B6FC20-039B-4E7A-9DCD-D8CB4FC09A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B6FC20-039B-4E7A-9DCD-D8CB4FC09A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C20C676-46F2-4128-A23B-F2A4F3AD1B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C20C676-46F2-4128-A23B-F2A4F3AD1B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C20C676-46F2-4128-A23B-F2A4F3AD1B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C20C676-46F2-4128-A23B-F2A4F3AD1B97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
